@@ -5,7 +5,7 @@ use LWP::UserAgent;
 use HTTP::Request;
 use JSON qw( decode_json );
 
-$authToken = "4wzjyajzuwrb6cupfz0ikv2p2ntrr0w";
+$authToken = "";
 $clientID = "";
 $url = 'https://api.bigcommerce.com/stores/ffzoin/v2/brands';
 @headers = (
